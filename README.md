@@ -11,7 +11,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=7D91B6&center=true&vCenter=true&repeat=true&width=760&height=28&lines=GenAI+Engineer+%C3%97+Full-Stack+Builder;Agentic+systems+%C3%97+enterprise+knowledge+%C3%97+product;Turning+ambitious+what-ifs+into+working+software" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=7D91B6&center=true&vCenter=true&repeat=true&width=760&height=28&lines=GenAI+Engineer+%C3%97+Full-Stack+Builder;Agentic+systems+%C3%97+enterprise+knowledge+%C3%97+product;Turning+my+ideas+into+working+software" alt="Animated introduction" />
 
 </div>
 
@@ -130,7 +130,7 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
       <a href="https://courtvision-analytics.perkyaisle4.chatgpt.site/">Live ↗</a> · <a href="https://github.com/jonxsong/CourtVision">Source ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://orbit-life-os.perkyaisle4.chatgpt.site/"><img src="./assets/projects/orbit.svg?v=20261113-1" width="100%" alt="Orbit — personal life operating system" /></a>
+      <a href="https://orbit-life-os.perkyaisle4.chatgpt.site/"><img src="./assets/projects/orbit.svg?v=20261113-2" width="100%" alt="Orbit — personal life operating system" /></a>
       <br /><br />
       <p>An iPhone-first, offline-first personal operating system connecting goals, tasks, habits, milestones, and private reflections.</p>
       <p><code>Expo</code> <code>React Native</code> <code>SQLite</code> <code>Go</code></p>

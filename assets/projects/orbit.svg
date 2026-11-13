@@ -2,58 +2,60 @@
   <title id="title">Orbit - personal life operating system</title>
   <desc id="desc">Animated life-graph nodes orbit a calm central goal.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#081017"/><stop offset=".55" stop-color="#101A24"/><stop offset="1" stop-color="#162A2A"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6EE7B7"/><stop offset="1" stop-color="#5FA8FF"/></linearGradient>
-    <radialGradient id="core"><stop stop-color="#D9FFF2"/><stop offset=".25" stop-color="#6EE7B7"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#A9C6BE" fill-opacity=".08"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#F5FFF9"/><stop offset=".52" stop-color="#EAF7FF"/><stop offset="1" stop-color="#FFF1D8"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#20C997"/><stop offset=".52" stop-color="#60A5FA"/><stop offset="1" stop-color="#FFB45E"/></linearGradient>
+    <radialGradient id="core"><stop stop-color="#FFFFFF"/><stop offset=".25" stop-color="#7EE8C1"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#30786A" fill-opacity=".12"/></pattern>
     <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
     <clipPath id="clip"><rect width="600" height="260" rx="18"/></clipPath>
   </defs>
   <g clip-path="url(#clip)">
     <rect width="600" height="260" fill="url(#bg)"/>
     <rect width="600" height="260" fill="url(#grid)"/>
+    <circle cx="548" cy="-18" r="120" fill="#FFD87A" fill-opacity=".20"><animate attributeName="cy" values="-18;4;-18" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="276" r="145" fill="#75E6BE" fill-opacity=".13"><animate attributeName="opacity" values=".08;.22;.08" dur="7s" repeatCount="indefinite"/></circle>
 
-    <text x="32" y="31" fill="#78938C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">04 / PERSONAL OS · IOS</text>
-    <text x="32" y="75" fill="#F2F8F6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">Orbit</text>
-    <text x="32" y="105" fill="#A8BBB6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">An offline-first system connecting goals, tasks,</text>
-    <text x="32" y="124" fill="#A8BBB6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">habits, milestones, and private reflections.</text>
+    <text x="32" y="31" fill="#4D7B70" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">04 / PERSONAL OS · IOS</text>
+    <text x="32" y="75" fill="#173C35" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">Orbit</text>
+    <text x="32" y="105" fill="#526F69" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">An offline-first system connecting goals, tasks,</text>
+    <text x="32" y="124" fill="#526F69" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">habits, milestones, and private reflections.</text>
 
     <g transform="translate(32 157)">
-      <rect width="124" height="30" rx="15" fill="#6EE7B7" fill-opacity=".07" stroke="#6EE7B7" stroke-opacity=".26"/>
-      <circle cx="17" cy="15" r="3" fill="#6EE7B7"><animate attributeName="opacity" values="1;.3;1" dur="1.9s" repeatCount="indefinite"/></circle>
-      <text x="28" y="19" fill="#C8F6E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing=".7">LOCAL-FIRST</text>
+      <rect width="124" height="30" rx="15" fill="#FFFFFF" fill-opacity=".65" stroke="#20B98C" stroke-opacity=".38"/>
+      <circle cx="17" cy="15" r="3" fill="#18A97C"><animate attributeName="opacity" values="1;.3;1" dur="1.9s" repeatCount="indefinite"/></circle>
+      <text x="28" y="19" fill="#276E60" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing=".7">LOCAL-FIRST</text>
     </g>
 
     <g transform="translate(465 127)">
-      <circle r="105" fill="#2DD4BF" fill-opacity=".035"/>
-      <circle r="83" fill="none" stroke="#80A99E" stroke-opacity=".15" stroke-dasharray="3 8"/>
-      <circle r="57" fill="none" stroke="#80A99E" stroke-opacity=".18"/>
-      <circle r="30" fill="none" stroke="#80A99E" stroke-opacity=".22" stroke-dasharray="2 6"/>
+      <circle r="105" fill="#FFFFFF" fill-opacity=".30"/>
+      <circle r="83" fill="none" stroke="#4F8F82" stroke-opacity=".27" stroke-dasharray="3 8"/>
+      <circle r="57" fill="none" stroke="#4F8F82" stroke-opacity=".31"/>
+      <circle r="30" fill="none" stroke="#4F8F82" stroke-opacity=".34" stroke-dasharray="2 6"/>
       <circle r="25" fill="url(#core)" filter="url(#soft)"><animate attributeName="r" values="20;28;20" dur="4s" repeatCount="indefinite"/></circle>
-      <circle r="8" fill="#D9FFF2"/>
-      <text x="-12" y="4" fill="#13342D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="800">LIFE</text>
+      <circle r="8" fill="#FFFFFF"/>
+      <text x="-12" y="4" fill="#155348" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="800">LIFE</text>
 
       <g>
         <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="13s" repeatCount="indefinite"/>
-        <circle cx="83" r="7" fill="#5FA8FF"/><circle cx="83" r="13" fill="#5FA8FF" fill-opacity=".1"/>
+        <circle cx="83" r="7" fill="#4F8CFF"/><circle cx="83" r="13" fill="#4F8CFF" fill-opacity=".16"/>
       </g>
       <g>
         <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
-        <circle cx="57" r="6" fill="#6EE7B7"/><circle cx="57" r="12" fill="#6EE7B7" fill-opacity=".1"/>
+        <circle cx="57" r="6" fill="#20C997"/><circle cx="57" r="12" fill="#20C997" fill-opacity=".16"/>
       </g>
       <g>
         <animateTransform attributeName="transform" type="rotate" from="110" to="470" dur="6s" repeatCount="indefinite"/>
-        <circle cx="30" r="4.5" fill="#F4D06F"/>
+        <circle cx="30" r="4.5" fill="#FFAD42"/>
       </g>
-      <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="7" fill="#A8BBB6" letter-spacing=".8">
+      <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="7" fill="#55776F" letter-spacing=".8">
         <text x="-106" y="-64">GOALS</text><text x="75" y="-67">HABITS</text><text x="79" y="77">TODAY</text><text x="-111" y="80">REFLECT</text>
       </g>
     </g>
 
-    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#7E9992">
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4F746B">
       <text x="32" y="229">EXPO</text><text x="81" y="229">REACT NATIVE</text><text x="179" y="229">SQLITE</text><text x="235" y="229">GO</text>
     </g>
-    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#A8BBB6" stroke-opacity=".15" stroke-width="1.5"/>
+    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#34766A" stroke-opacity=".18" stroke-width="1.5"/>
     <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
