@@ -1,16 +1,75 @@
-## Hi there 👋
 
-<!--
-**jonxsong/jonxsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# jon zhang ✳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### engineer by trade. builder by instinct.
+
+`genai` · `full-stack` · `systems` · `somewhere between code & curiosity`
+
+<br/>
+
+[portfolio](https://jon-zhang-portfolio-2026.perkyaisle4.chatgpt.site/) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/) &nbsp;·&nbsp; [projects](#selected-work)
+
+<br/>
+
+</div>
+
+---
+
+### `~/about`
+
+```typescript
+const jon = {
+  role: "GenAI Engineer",
+  experience: "5+ years",
+  education: ["Northwestern", "UC San Diego"],
+  interests: [
+    "intelligent agents",
+    "full-stack products",
+    "beautiful interfaces",
+    "ideas worth building"
+  ],
+  currently: "turning what-ifs into working software",
+};
+```
+
+### `~/stack`
+
+**Languages**  
+`Python` `TypeScript` `SQL`
+
+**Frontend**  
+`React` `Next.js` `Tailwind CSS`
+
+**Backend & Infrastructure**  
+`Node.js` `PostgreSQL` `Snowflake` `Docker` `Cloudflare`
+
+**AI & Agents**  
+`OpenAI` `MCP` `RAG` `Agentic Workflows`
+
+### `~/selected-work`
+
+| Project | What it does |
+| :--- | :--- |
+| **Afterglow** | Predicting the colors of tomorrow's sunset. |
+| **Series** | Reimagining how we discover and experience entertainment. |
+| **Omnigaze** | Turning market signals into actionable intelligence. |
+
+### `~/activity`
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*less noise. more building.*
+
+**[↗ see what I'm working on](https://jon-zhang-portfolio-2026.perkyaisle4.chatgpt.site/)**
+
+</div>
