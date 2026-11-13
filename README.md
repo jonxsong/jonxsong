@@ -23,7 +23,8 @@
 const jon = {
   role: "GenAI Engineer",
   experience: "5+ years",
-  education: ["Northwestern", "UC San Diego"],
+  bs: "UC San Diego",
+  ms: "Northwestern University",
   interests: [
     "intelligent agents",
     "full-stack products",
@@ -60,8 +61,6 @@ const jon = {
 ---
 
 <div align="center">
-
-*less noise. more building.*
 
 **[↗ see what I'm working on](https://jon-zhang-portfolio-2026.perkyaisle4.chatgpt.site/)**
 
