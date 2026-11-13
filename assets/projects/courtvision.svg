@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">CourtVision - AI basketball intelligence</title>
+  <desc id="desc">An animated basketball crosses a live-game court with a glowing scoreboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#07111D"/><stop offset="1" stop-color="#17253A"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F59E42"/><stop offset="1" stop-color="#EF5D5D"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#F59E42" stop-opacity=".2"/><stop offset="1" stop-color="#F59E42" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9FB2C9" stroke-opacity=".045"/></pattern>
+    <clipPath id="clip"><rect width="600" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="260" fill="url(#bg)"/>
+    <rect width="600" height="260" fill="url(#grid)"/>
+    <circle cx="505" cy="126" r="150" fill="url(#glow)"><animate attributeName="opacity" values=".45;.9;.45" dur="5s" repeatCount="indefinite"/></circle>
+
+    <text x="32" y="31" fill="#768AA3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">03 / AI · SPORTS INTELLIGENCE</text>
+    <text x="32" y="75" fill="#F5F7FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">CourtVision</text>
+    <text x="32" y="105" fill="#A9B7C8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Live NBA data, player intelligence, shot</text>
+    <text x="32" y="124" fill="#A9B7C8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">exploration, and grounded AI research.</text>
+
+    <g transform="translate(32 157)">
+      <rect width="113" height="30" rx="15" fill="#F59E42" fill-opacity=".08" stroke="#F59E42" stroke-opacity=".28"/>
+      <circle cx="17" cy="15" r="3" fill="#F59E42"><animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
+      <text x="28" y="19" fill="#FFD8A3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing=".8">GAME LIVE</text>
+    </g>
+
+    <g transform="translate(347 42)">
+      <rect width="220" height="172" rx="14" fill="#0A1422" fill-opacity=".68" stroke="#A9B7C8" stroke-opacity=".14"/>
+      <text x="16" y="25" fill="#768AA3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" letter-spacing="1.2">Q4 · 01:42</text>
+      <text x="138" y="27" fill="#F5F7FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">104 — 101</text>
+      <g transform="translate(18 43)" fill="none" stroke="#D3DCE8" stroke-opacity=".22">
+        <rect width="184" height="106" rx="4"/>
+        <path d="M92 0V106M0 23H37V83H0M184 23H147V83H184"/>
+        <circle cx="92" cy="53" r="22"/><path d="M37 33a28 28 0 0 1 0 40M147 33a28 28 0 0 0 0 40"/>
+      </g>
+      <path id="shot" d="M42 130Q104 28 168 82" fill="none" stroke="#F59E42" stroke-opacity=".16" stroke-dasharray="3 5"/>
+      <circle r="6" fill="#F59E42" stroke="#FFD39A" stroke-width="1.5">
+        <animateMotion dur="3.4s" repeatCount="indefinite" path="M42 130Q104 28 168 82"/>
+      </circle>
+      <text x="16" y="164" fill="#EF8A62" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1">WIN PROBABILITY 72%</text>
+    </g>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#7F92AA">
+      <text x="32" y="229">OPENAI</text><text x="97" y="229">LIVE NBA DATA</text><text x="199" y="229">FULL-STACK</text>
+    </g>
+    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#A9B7C8" stroke-opacity=".15" stroke-width="1.5"/>
+    <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

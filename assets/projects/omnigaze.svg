@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">Omnigaze - AI market intelligence</title>
+  <desc id="desc">An animated market signal chart with rising data points.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07101F"/><stop offset="1" stop-color="#0B1B32"/>
+    </linearGradient>
+    <linearGradient id="line" x1="350" y1="200" x2="565" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/><stop offset="1" stop-color="#4F7CFF"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#315CFF" stop-opacity=".28"/><stop offset="1" stop-color="#315CFF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#91A0B8" stroke-opacity=".07"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="9"/></filter>
+    <clipPath id="clip"><rect width="600" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="260" fill="url(#bg)"/>
+    <rect width="600" height="260" fill="url(#grid)"/>
+    <circle cx="500" cy="90" r="150" fill="url(#glow)"><animate attributeName="opacity" values=".55;1;.55" dur="6s" repeatCount="indefinite"/></circle>
+
+    <text x="32" y="31" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">01 / AI · MARKET INTELLIGENCE</text>
+    <text x="32" y="75" fill="#F3F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">Omnigaze</text>
+    <text x="32" y="105" fill="#A7B3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Fragmented market signals, distilled into</text>
+    <text x="32" y="124" fill="#A7B3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">clear, evidence-backed decisions.</text>
+
+    <g transform="translate(32 159)">
+      <rect width="116" height="30" rx="15" fill="#2DD4BF" fill-opacity=".08" stroke="#2DD4BF" stroke-opacity=".24"/>
+      <circle cx="17" cy="15" r="3" fill="#2DD4BF"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="28" y="19" fill="#BFEFE9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing=".8">SIGNAL LIVE</text>
+    </g>
+
+    <g transform="translate(338 47)">
+      <rect width="230" height="166" rx="14" fill="#07101F" fill-opacity=".72" stroke="#91A0B8" stroke-opacity=".15"/>
+      <text x="18" y="28" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1.4">MARKET SIGNAL</text>
+      <text x="159" y="30" fill="#2DD4BF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">+18.4%</text>
+      <path d="M18 131H212M18 94H212M18 57H212" stroke="#91A0B8" stroke-opacity=".08"/>
+      <path d="M18 139C45 133 52 111 77 117C103 122 110 82 138 89C164 95 174 50 212 41" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="280" stroke-dashoffset="280">
+        <animate attributeName="stroke-dashoffset" values="280;0;0" keyTimes="0;.7;1" dur="4.5s" repeatCount="indefinite"/>
+      </path>
+      <g fill="#2DD4BF">
+        <circle cx="77" cy="117" r="3"/><circle cx="138" cy="89" r="3"/><circle cx="212" cy="41" r="4">
+          <animate attributeName="r" values="3.5;6;3.5" dur="1.8s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#7F8DA5">
+      <text x="32" y="229">GENAI</text><text x="91" y="229">FULL-STACK</text><text x="178" y="229">PRODUCT DESIGN</text>
+    </g>
+    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#91A0B8" stroke-opacity=".15" stroke-width="1.5"/>
+    <rect y="257" width="600" height="3" fill="url(#line)"><animate attributeName="opacity" values=".45;1;.45" dur="3.5s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

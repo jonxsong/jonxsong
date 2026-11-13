@@ -48,8 +48,6 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
   </tr>
 </table>
 
-> ✦ I care about technology that is rigorous under the hood and feels inevitable in the hand.
-
 <br />
 
 ## `02 / CAPABILITIES`
@@ -108,26 +106,35 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <sub>01 · AI / MARKET INTELLIGENCE</sub>
-      <h3>Omnigaze</h3>
+    <td width="50%" valign="top">
+      <a href="https://omnigaze.perkyaisle4.chatgpt.site/"><img src="./assets/projects/omnigaze.svg?v=20261113-1" width="100%" alt="Omnigaze — AI market intelligence" /></a>
+      <br /><br />
       <p>A personalized intelligence workspace that turns fragmented market signals into clear, evidence-backed decisions.</p>
       <p><code>GenAI</code> <code>Full-stack</code> <code>Product design</code></p>
       <a href="https://omnigaze.perkyaisle4.chatgpt.site/">Live ↗</a> · <a href="https://github.com/jonxsong/Omnigaze">Source ↗</a>
     </td>
-    <td width="33%" valign="top">
-      <sub>02 · AI / WEATHER EXPERIENCE</sub>
-      <h3>Afterglow</h3>
+    <td width="50%" valign="top">
+      <a href="https://afterglow-sky-forecast.perkyaisle4.chatgpt.site/"><img src="./assets/projects/afterglow.svg?v=20261113-1" width="100%" alt="Afterglow — AI sunset forecast" /></a>
+      <br /><br />
       <p>AI-assisted sunset forecasting with live weather, solar geometry, predicted palettes, vibrancy scores, and viewing windows.</p>
       <p><code>OpenAI</code> <code>Open-Meteo</code> <code>Bilingual</code></p>
       <a href="https://afterglow-sky-forecast.perkyaisle4.chatgpt.site/">Live ↗</a> · <a href="https://github.com/jonxsong/afterglow">Source ↗</a>
     </td>
-    <td width="33%" valign="top">
-      <sub>03 · AI / SPORTS INTELLIGENCE</sub>
-      <h3>CourtVision</h3>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://courtvision-analytics.perkyaisle4.chatgpt.site/"><img src="./assets/projects/courtvision.svg?v=20261113-1" width="100%" alt="CourtVision — AI basketball intelligence" /></a>
+      <br /><br />
       <p>An NBA intelligence platform with real stats, live games, interactive comparisons, shot charts, and an AI research assistant.</p>
       <p><code>OpenAI</code> <code>Live NBA data</code> <code>Full-stack</code></p>
       <a href="https://courtvision-analytics.perkyaisle4.chatgpt.site/">Live ↗</a> · <a href="https://github.com/jonxsong/CourtVision">Source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://orbit-life-os.perkyaisle4.chatgpt.site/"><img src="./assets/projects/orbit.svg?v=20261113-1" width="100%" alt="Orbit — personal life operating system" /></a>
+      <br /><br />
+      <p>An iPhone-first, offline-first personal operating system connecting goals, tasks, habits, milestones, and private reflections.</p>
+      <p><code>Expo</code> <code>React Native</code> <code>SQLite</code> <code>Go</code></p>
+      <a href="https://orbit-life-os.perkyaisle4.chatgpt.site/">Live ↗</a> · <a href="https://github.com/jonxsong/Orbit">Source ↗</a>
     </td>
   </tr>
 </table>
