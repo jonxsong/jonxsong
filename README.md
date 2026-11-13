@@ -114,7 +114,7 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
       <a href="https://omnigaze.perkyaisle4.chatgpt.site/">Live ↗</a> · <a href="https://github.com/jonxsong/Omnigaze">Source ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://afterglow-sky-forecast.perkyaisle4.chatgpt.site/"><img src="./assets/projects/afterglow.svg?v=20261113-1" width="100%" alt="Afterglow — AI sunset forecast" /></a>
+      <a href="https://afterglow-sky-forecast.perkyaisle4.chatgpt.site/"><img src="./assets/projects/afterglow.svg?v=20261113-2" width="100%" alt="Afterglow — AI sunset forecast" /></a>
       <br /><br />
       <p>AI-assisted sunset forecasting with live weather, solar geometry, predicted palettes, vibrancy scores, and viewing windows.</p>
       <p><code>OpenAI</code> <code>Open-Meteo</code> <code>Bilingual</code></p>
@@ -130,7 +130,7 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
       <a href="https://courtvision-analytics.perkyaisle4.chatgpt.site/">Live ↗</a> · <a href="https://github.com/jonxsong/CourtVision">Source ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://orbit-life-os.perkyaisle4.chatgpt.site/"><img src="./assets/projects/orbit.svg?v=20261113-2" width="100%" alt="Orbit — personal life operating system" /></a>
+      <a href="https://orbit-life-os.perkyaisle4.chatgpt.site/"><img src="./assets/projects/orbit.svg?v=20261113-3" width="100%" alt="Orbit — personal life operating system" /></a>
       <br /><br />
       <p>An iPhone-first, offline-first personal operating system connecting goals, tasks, habits, milestones, and private reflections.</p>
       <p><code>Expo</code> <code>React Native</code> <code>SQLite</code> <code>Go</code></p>

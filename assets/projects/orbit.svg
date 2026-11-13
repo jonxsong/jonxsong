@@ -2,18 +2,18 @@
   <title id="title">Orbit - personal life operating system</title>
   <desc id="desc">Animated life-graph nodes orbit a calm central goal.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#F5FFF9"/><stop offset=".52" stop-color="#EAF7FF"/><stop offset="1" stop-color="#FFF1D8"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".52" stop-color="#F5FCFF"/><stop offset="1" stop-color="#FFF9EC"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#20C997"/><stop offset=".52" stop-color="#60A5FA"/><stop offset="1" stop-color="#FFB45E"/></linearGradient>
     <radialGradient id="core"><stop stop-color="#FFFFFF"/><stop offset=".25" stop-color="#7EE8C1"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#30786A" fill-opacity=".12"/></pattern>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#30786A" fill-opacity=".08"/></pattern>
     <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
     <clipPath id="clip"><rect width="600" height="260" rx="18"/></clipPath>
   </defs>
   <g clip-path="url(#clip)">
     <rect width="600" height="260" fill="url(#bg)"/>
     <rect width="600" height="260" fill="url(#grid)"/>
-    <circle cx="548" cy="-18" r="120" fill="#FFD87A" fill-opacity=".20"><animate attributeName="cy" values="-18;4;-18" dur="8s" repeatCount="indefinite"/></circle>
-    <circle cx="300" cy="276" r="145" fill="#75E6BE" fill-opacity=".13"><animate attributeName="opacity" values=".08;.22;.08" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="548" cy="-18" r="120" fill="#FFD87A" fill-opacity=".12"><animate attributeName="cy" values="-18;4;-18" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="276" r="145" fill="#75E6BE" fill-opacity=".08"><animate attributeName="opacity" values=".04;.14;.04" dur="7s" repeatCount="indefinite"/></circle>
 
     <text x="32" y="31" fill="#4D7B70" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">04 / PERSONAL OS · IOS</text>
     <text x="32" y="75" fill="#173C35" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">Orbit</text>
@@ -27,7 +27,7 @@
     </g>
 
     <g transform="translate(465 127)">
-      <circle r="105" fill="#FFFFFF" fill-opacity=".30"/>
+      <circle r="105" fill="#FFFFFF" fill-opacity=".56"/>
       <circle r="83" fill="none" stroke="#4F8F82" stroke-opacity=".27" stroke-dasharray="3 8"/>
       <circle r="57" fill="none" stroke="#4F8F82" stroke-opacity=".31"/>
       <circle r="30" fill="none" stroke="#4F8F82" stroke-opacity=".34" stroke-dasharray="2 6"/>
@@ -55,7 +55,7 @@
     <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#4F746B">
       <text x="32" y="229">EXPO</text><text x="81" y="229">REACT NATIVE</text><text x="179" y="229">SQLITE</text><text x="235" y="229">GO</text>
     </g>
-    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#34766A" stroke-opacity=".18" stroke-width="1.5"/>
+    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#34766A" stroke-opacity=".14" stroke-width="1.5"/>
     <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
