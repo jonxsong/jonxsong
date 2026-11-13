@@ -54,7 +54,7 @@ const jon = {
 | :--- | :--- |
 | **afterglow.** | Predicting the colors of tomorrow's sunset. |
 | **Omnigaze** | Turning market signals into actionable intelligence. |
-| **CourtVision** | tbd... |
+| **CourtVision** | NBA intelligence platform analyzing in real time. |
 
 ---
 
