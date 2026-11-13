@@ -53,16 +53,7 @@ const jon = {
 | Project | What it does |
 | :--- | :--- |
 | **Afterglow** | Predicting the colors of tomorrow's sunset. |
-| **Series** | Reimagining how we discover and experience entertainment. |
 | **Omnigaze** | Turning market signals into actionable intelligence. |
-
-### `~/activity`
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true)
-
-</div>
 
 ---
 
