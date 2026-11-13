@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://jon-zhang-portfolio-2026.perkyaisle4.chatgpt.site/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=safari&logoColor=4F7CFF" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/jonxsong/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jonxsong/"><img src="./assets/badges/linkedin.svg" height="28" alt="LinkedIn" /></a>
 <a href="https://github.com/jonxsong?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Projects" /></a>
 <a href="https://www.overleaf.com/project/6af3be5dcb8d4f7336950eb2/share#bde3fd1173b1b1ea75c85a1736f15deed095f0cfd7c466db"><img src="https://img.shields.io/badge/RÉSUMÉ-0B1220?style=for-the-badge&logo=readthedocs&logoColor=4F7CFF" alt="Résumé" /></a>
 
@@ -19,71 +19,88 @@
 
 ## `01 / ABOUT`
 
-I build at the intersection of **models, data, scalable software, and product**. My work spans multi-agent research systems, enterprise knowledge retrieval, asynchronous AI workflows, data platforms, and full-stack experiences that make complex technology feel natural.
+I’m a **GenAI / Full-Stack Engineer** working where models, data, software, and product meet. I turn open-ended problems into intelligent systems that people can actually use—from multi-agent research and enterprise retrieval to data platforms and polished applications.
 
-```typescript
-const jon = {
-  now: "GenAI Engineer @ Amdocs",
-  craft: ["agentic systems", "full-stack products", "data platforms"],
-  approach: "start with evidence, understand the system, make it useful",
-  education: ["M.S. Data Science — Northwestern", "B.S. Data Science — UC San Diego"],
-  currently: "turning ambitious ideas into real-world products",
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>NOW</sub><br />
+      <strong>GenAI Engineer at Amdocs</strong><br />
+      Building production-ready AI applications and scalable intelligent systems.
+    </td>
+    <td width="50%" valign="top">
+      <sub>I BUILD</sub><br />
+      <strong>Agents · products · data platforms</strong><br />
+      Systems that connect strong engineering with a thoughtful user experience.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>HOW I WORK</sub><br />
+      <strong>Evidence first. System second. Product always.</strong><br />
+      Understand the problem deeply, design for reality, and make the result useful.
+    </td>
+    <td width="50%" valign="top">
+      <sub>FOUNDATION</sub><br />
+      <strong>Northwestern · UC San Diego</strong><br />
+      M.S. and B.S. in Data Science, with a focus on data engineering and applied systems.
+    </td>
+  </tr>
+</table>
 
-> ✦ I care about systems that are rigorous under the hood and inevitable in the hand.
+> ✦ I care about technology that is rigorous under the hood and feels inevitable in the hand.
 
 <br />
 
 ## `02 / CAPABILITIES`
 
 <sub>AI / AGENT SYSTEMS</sub><br />
-![OpenAI](https://img.shields.io/badge/OpenAI-0B1220?style=flat-square&logo=openai&logoColor=FFFFFF)
-![LangGraph](https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logo=langchain&logoColor=4F7CFF)
-![LangChain](https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logo=langchain&logoColor=2DD4BF)
-![vLLM](https://img.shields.io/badge/vLLM-0B1220?style=flat-square&logo=python&logoColor=4F7CFF)
-![Qwen 3.5](https://img.shields.io/badge/Qwen_3.5-0B1220?style=flat-square&logo=alibabacloud&logoColor=FFFFFF)
-![RAG](https://img.shields.io/badge/RAG-0B1220?style=flat-square&logo=openai&logoColor=2DD4BF)
-![MCP](https://img.shields.io/badge/MCP-0B1220?style=flat-square&logo=modelcontextprotocol&logoColor=4F7CFF)
+<img src="./assets/badges/openai.svg" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logo=langchain&logoColor=4F7CFF" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logo=langchain&logoColor=2DD4BF" alt="LangChain" />
+<img src="https://img.shields.io/badge/vLLM-0B1220?style=flat-square&logo=python&logoColor=4F7CFF" alt="vLLM" />
+<img src="https://img.shields.io/badge/Qwen_3.5-0B1220?style=flat-square&logo=alibabacloud&logoColor=FFFFFF" alt="Qwen 3.5" />
+<img src="./assets/badges/rag.svg" alt="RAG" />
+<img src="https://img.shields.io/badge/MCP-0B1220?style=flat-square&logo=modelcontextprotocol&logoColor=4F7CFF" alt="MCP" />
 
 <sub>LANGUAGES / CORE</sub><br />
-![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=4F7CFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=2DD4BF)
-![SQL](https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=4F7CFF" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=2DD4BF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="SQL" />
 
 <sub>PRODUCT / APIS</sub><br />
-![React](https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=2DD4BF)
-![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs&logoColor=2DD4BF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=2DD4BF)
-![Streamlit](https://img.shields.io/badge/Streamlit-0B1220?style=flat-square&logo=streamlit&logoColor=4F7CFF)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0B1220?style=flat-square&logo=fastapi&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=2DD4BF" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs&logoColor=2DD4BF" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=2DD4BF" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Streamlit-0B1220?style=flat-square&logo=streamlit&logoColor=4F7CFF" alt="Streamlit" />
+<img src="https://img.shields.io/badge/REST_APIs-0B1220?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
 
 <sub>DATA / RETRIEVAL</sub><br />
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4F7CFF)
-![pgvector](https://img.shields.io/badge/pgvector-0B1220?style=flat-square&logo=postgresql&logoColor=2DD4BF)
-![Snowflake](https://img.shields.io/badge/Snowflake-0B1220?style=flat-square&logo=snowflake&logoColor=FFFFFF)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0B1220?style=flat-square&logo=microsoftazure&logoColor=4F7CFF)
-![BigQuery](https://img.shields.io/badge/BigQuery-0B1220?style=flat-square&logo=googlebigquery&logoColor=2DD4BF)
+<img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4F7CFF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/pgvector-0B1220?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="pgvector" />
+<img src="https://img.shields.io/badge/Snowflake-0B1220?style=flat-square&logo=snowflake&logoColor=FFFFFF" alt="Snowflake" />
+<img src="./assets/badges/azure-ai-search.svg" alt="Azure AI Search" />
+<img src="https://img.shields.io/badge/BigQuery-0B1220?style=flat-square&logo=googlebigquery&logoColor=2DD4BF" alt="BigQuery" />
 
 <sub>CLOUD / DELIVERY</sub><br />
-![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=4F7CFF)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0B1220?style=flat-square&logo=googlecloud&logoColor=FFFFFF)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0B1220?style=flat-square&logo=microsoftazure&logoColor=2DD4BF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1220?style=flat-square&logo=cloudflare&logoColor=4F7CFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1220?style=flat-square&logo=githubactions&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=4F7CFF" alt="Docker" />
+<img src="https://img.shields.io/badge/Google_Cloud-0B1220?style=flat-square&logo=googlecloud&logoColor=FFFFFF" alt="Google Cloud" />
+<img src="./assets/badges/microsoft-azure.svg" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Cloudflare-0B1220?style=flat-square&logo=cloudflare&logoColor=4F7CFF" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0B1220?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions" />
 
 <sub>ML / ANALYTICS</sub><br />
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1220?style=flat-square&logo=scikitlearn&logoColor=4F7CFF)
-![SciPy](https://img.shields.io/badge/SciPy-0B1220?style=flat-square&logo=scipy&logoColor=2DD4BF)
-![Prophet](https://img.shields.io/badge/Prophet-0B1220?style=flat-square&logo=meta&logoColor=FFFFFF)
-![Plotly](https://img.shields.io/badge/Plotly-0B1220?style=flat-square&logo=plotly&logoColor=4F7CFF)
+<img src="https://img.shields.io/badge/scikit--learn-0B1220?style=flat-square&logo=scikitlearn&logoColor=4F7CFF" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/SciPy-0B1220?style=flat-square&logo=scipy&logoColor=2DD4BF" alt="SciPy" />
+<img src="https://img.shields.io/badge/Prophet-0B1220?style=flat-square&logo=meta&logoColor=FFFFFF" alt="Prophet" />
+<img src="https://img.shields.io/badge/Plotly-0B1220?style=flat-square&logo=plotly&logoColor=4F7CFF" alt="Plotly" />
 
 <sub>ENTERPRISE INTEGRATIONS</sub><br />
-![Jira](https://img.shields.io/badge/Jira-0B1220?style=flat-square&logo=jira&logoColor=4F7CFF)
-![Confluence](https://img.shields.io/badge/Confluence-0B1220?style=flat-square&logo=confluence&logoColor=2DD4BF)
-![Slack](https://img.shields.io/badge/Slack-0B1220?style=flat-square&logo=slack&logoColor=FFFFFF)
-![Google Drive](https://img.shields.io/badge/Google_Drive-0B1220?style=flat-square&logo=googledrive&logoColor=4F7CFF)
+<img src="https://img.shields.io/badge/Jira-0B1220?style=flat-square&logo=jira&logoColor=4F7CFF" alt="Jira" />
+<img src="https://img.shields.io/badge/Confluence-0B1220?style=flat-square&logo=confluence&logoColor=2DD4BF" alt="Confluence" />
+<img src="./assets/badges/slack.svg" alt="Slack" />
+<img src="https://img.shields.io/badge/Google_Drive-0B1220?style=flat-square&logo=googledrive&logoColor=4F7CFF" alt="Google Drive" />
 
 <br />
 
@@ -133,10 +150,10 @@ const jon = {
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonxsong&theme=github_dark" alt="Jon's GitHub contribution summary" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=jonxsong&theme=transparent&hide_border=true&ring=4F7CFF&fire=2DD4BF&currStreakLabel=91A0B8&sideLabels=91A0B8&dates=6E7D96" alt="Jon's GitHub contribution streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonxsong&theme=github_dark&utcOffset=-8" alt="Jon's most productive times of day" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonxsong&theme=github_dark" alt="Jon's repositories by language" />
+
+<img width="98%" src="https://streak-stats.demolab.com?user=jonxsong&theme=transparent&hide_border=true&ring=4F7CFF&fire=2DD4BF&currStreakLabel=91A0B8&sideLabels=91A0B8&dates=6E7D96" alt="Jon's daily GitHub contribution streak" />
 
 <br />
 
@@ -149,8 +166,6 @@ const jon = {
 ---
 
 <div align="center">
-
-### Have a thoughtful problem worth building around?
 
 **[Explore the portfolio ↗](https://jon-zhang-portfolio-2026.perkyaisle4.chatgpt.site/)** &nbsp;·&nbsp; **[Connect on LinkedIn ↗](https://www.linkedin.com/in/jonxsong/)**
 
