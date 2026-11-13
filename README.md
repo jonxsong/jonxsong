@@ -52,8 +52,9 @@ const jon = {
 
 | Project | What it does |
 | :--- | :--- |
-| **Afterglow** | Predicting the colors of tomorrow's sunset. |
+| **afterglow.** | Predicting the colors of tomorrow's sunset. |
 | **Omnigaze** | Turning market signals into actionable intelligence. |
+| **CourtVision** | tbd... |
 
 ---
 
