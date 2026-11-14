@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="22" viewBox="0 0 132 22" role="img" aria-label="Teamfight Tactics">
+  <rect width="132" height="22" rx="3" fill="#0B1220"/>
+  <g transform="translate(5 3) scale(.6667)">
+    <path fill="#F3C969" d="M3 3h18l-3 4h-5v8l-3-1.5V7H6z"/>
+    <path fill="#F3C969" d="M5.2 10.5c1.9 3.9 5.3 6.1 9 6.1c2.5 0 4.5-.8 5.8-2.1c-.7 3.3-3.8 5.5-7.5 5.5c-4.3 0-7.8-2.8-8.8-7z"/>
+  </g>
+  <text x="25" y="15" fill="#E6EDF7" font-family="Verdana, Arial, sans-serif" font-size="11">Teamfight Tactics</text>
+</svg>

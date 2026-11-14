@@ -19,17 +19,9 @@
 
 ## `01 / ABOUT`
 
-I’m Jon, a **GenAI / Full-Stack Engineer** focused on turning complex problems into reliable, useful products.
+I work across AI, data, backend systems, and product development—taking ideas from mock-ups to production-ready software. I enjoy the challenge of turning complex problems into reliable, useful products, particularly chasing the feeling of owning something I’ve shipped end to end.
 
-I work across AI, data, backend systems, and product development—taking ideas from early ambiguity to production-ready software.
-
-<div align="center">
-
-<sub>FIND THE SIGNAL</sub> &nbsp;→&nbsp; <sub>DESIGN THE SYSTEM</sub> &nbsp;→&nbsp; <sub>SHIP THE PRODUCT</sub>
-
-</div>
-
-I bring clear thinking, strong engineering, and a practical product mindset to every stage of the work.
+Outside of engineering, basketball is a big part of my life. I love playing in organized leagues, following the <picture><img src="https://img.shields.io/badge/NBA-0B1220?style=flat-square&logo=nba&logoColor=FFFFFF" alt="NBA" /></picture>, and watching <picture><img src="./assets/badges/march-madness.svg" alt="March Madness" /></picture> every year. When I’m not on the court, I enjoy snowboarding and listening to jazz—I’m a big jazz guy (<a href="https://open.spotify.com/playlist/3YEyl1IBttZt5UsxQtKVTw?si=24528f74bbe7455f"><img src="https://img.shields.io/badge/jazz_bruh-0B1220?style=flat-square&logo=spotify&logoColor=1ED760" alt="jazz bruh — Spotify playlist" /></a>). I’m also an avid gamer, always chasing that competitive thrill, whether it’s through shooters like <picture><img src="https://img.shields.io/badge/Valorant-0B1220?style=flat-square&logo=valorant&logoColor=FA4454" alt="Valorant" /></picture> and <picture><img src="./assets/badges/apex-legends.svg" alt="Apex Legends" /></picture>, or strategy games like <picture><img src="./assets/badges/teamfight-tactics.svg" alt="Teamfight Tactics" /></picture>.
 
 <br />
 
