@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" id="profile-top">
 
-<img src="./assets/hero.svg?v=20261113-2" width="100%" alt="Jon Zhang — GenAI and Full-Stack Engineer" />
+<a href="#profile-top"><img src="./assets/hero.svg?v=20261113-2" width="100%" alt="Jon Zhang — GenAI and Full-Stack Engineer" /></a>
 
 <br />
 
