@@ -19,34 +19,17 @@
 
 ## `01 / ABOUT`
 
-I’m a **GenAI / Full-Stack Engineer** working where models, data, software, and product meet. I turn open-ended problems into intelligent systems that people can actually use—from multi-agent research and enterprise retrieval to data platforms and polished applications.
+**I turn ambiguous, high-value problems into AI products people can trust.**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>NOW</sub><br />
-      <strong>GenAI Engineer at Amdocs</strong><br />
-      Building production-ready AI applications and scalable intelligent systems.
-    </td>
-    <td width="50%" valign="top">
-      <sub>I BUILD</sub><br />
-      <strong>Agents · products · data platforms</strong><br />
-      Systems that connect strong engineering with a thoughtful user experience.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>HOW I WORK</sub><br />
-      <strong>Evidence first. System second. Product always.</strong><br />
-      Understand the problem deeply, design for reality, and make the result useful.
-    </td>
-    <td width="50%" valign="top">
-      <sub>FOUNDATION</sub><br />
-      <strong>Northwestern · UC San Diego</strong><br />
-      M.S. and B.S. in Data Science, with a focus on data engineering and applied systems.
-    </td>
-  </tr>
-</table>
+My range is the advantage: I can find the signal in a messy problem, design the agent and data architecture, build the APIs and workflows, and carry the result through to a polished product. That means fewer handoffs, faster learning, and decisions that stay connected from the first question to shipped software.
+
+<div align="center">
+
+<sub>FIND THE SIGNAL</sub> &nbsp;→&nbsp; <sub>DESIGN THE SYSTEM</sub> &nbsp;→&nbsp; <sub>SHIP THE PRODUCT</sub>
+
+</div>
+
+I bring an evidence-first mindset, strong engineering judgment, and a product instinct for making complex systems clear, reliable, and genuinely useful.
 
 <br />
 
@@ -161,8 +144,8 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
 | **2026 — now** | **GenAI Engineer · Amdocs** | Production-ready AI applications at the intersection of models, data, and scalable software. |
 | **2023 — 2026** | **AI Software Engineer / Data Engineer · EIS Group** | Multi-agent investigation, enterprise RAG, async AI workflows, retrieval systems, and governed analytics. |
 | **2021 — 2022** | **Data Scientist · Pandio** | Machine-learning deployment and product / operational analytics. |
-| **2021 — 2023** | **M.S. Data Science · Northwestern** | Data engineering; price optimization and demand forecasting. |
-| **2016 — 2021** | **B.S. Data Science · UC San Diego** | The analytical foundation: evidence first, systems thinking, useful outcomes. |
+| **2021 — 2023** | **M.S. Data Science · Northwestern University** | Data engineering; price optimization and demand forecasting. |
+| **2016 — 2020** | **B.S. Data Science · UC San Diego** | The analytical foundation: evidence first, systems thinking, useful outcomes. |
 
 <br />
 
