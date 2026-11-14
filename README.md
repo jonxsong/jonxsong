@@ -23,6 +23,8 @@ I work across AI, data, backend systems, and product development—taking ideas 
 
 Outside of engineering, basketball is a big part of my life. I love playing in organized leagues, following the <picture><img src="https://img.shields.io/badge/NBA-0B1220?style=flat-square&logo=nba&logoColor=FFFFFF" alt="NBA" height="18" align="absmiddle" /></picture>, and watching <picture><img src="./assets/badges/march-madness.svg" alt="March Madness" height="18" align="absmiddle" /></picture> every year. When I’m not on the court, I enjoy snowboarding and listening to jazz—I’m a big jazz guy (<a href="https://open.spotify.com/playlist/3YEyl1IBttZt5UsxQtKVTw?si=24528f74bbe7455f"><img src="https://img.shields.io/badge/jazz_bruh-0B1220?style=flat-square&logo=spotify&logoColor=1ED760" alt="jazz bruh — Spotify playlist" height="18" align="absmiddle" /></a>). I’m also an avid gamer, always chasing that competitive thrill, whether it’s through shooters like <picture><img src="https://img.shields.io/badge/Valorant-0B1220?style=flat-square&logo=valorant&logoColor=FA4454" alt="Valorant" height="18" align="absmiddle" /></picture> and <picture><img src="./assets/badges/apex-legends.svg" alt="Apex Legends" height="18" align="absmiddle" /></picture>, or strategy games like <picture><img src="./assets/badges/teamfight-tactics.svg" alt="Teamfight Tactics" height="18" align="absmiddle" /></picture>.
 
+When I’m winding down, I like reading manga or watching anime—my favorite is <picture><img src="./assets/badges/one-piece.png" alt="One Piece" height="22" align="absmiddle" /></picture>.
+
 <br />
 
 ## `02 / TECH STACK`
