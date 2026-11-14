@@ -92,7 +92,8 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
 
 <sub>CLOUD / DELIVERY</sub><br />
 <picture><img src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=4F7CFF" alt="Docker" /></picture>
-<picture><img src="https://img.shields.io/badge/AWS-0B1220?style=flat-square&logo=amazonwebservices&logoColor=2DD4BF" alt="Amazon Web Services" /></picture>
+<picture><img src="./assets/badges/aws.svg" alt="Amazon Web Services" /></picture>
+<picture><img src="./assets/badges/kubernetes.svg" alt="Kubernetes" /></picture>
 <picture><img src="https://img.shields.io/badge/Google_Cloud-0B1220?style=flat-square&logo=googlecloud&logoColor=FFFFFF" alt="Google Cloud" /></picture>
 <picture><img src="./assets/badges/microsoft-azure.svg" alt="Microsoft Azure" /></picture>
 <picture><img src="https://img.shields.io/badge/Cloudflare-0B1220?style=flat-square&logo=cloudflare&logoColor=4F7CFF" alt="Cloudflare" /></picture>
