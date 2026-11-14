@@ -19,9 +19,9 @@
 
 ## `01 / ABOUT`
 
-**I turn ambiguous, high-value problems into AI products people can trust.**
+I’m Jon, a **GenAI / Full-Stack Engineer** focused on turning complex problems into reliable, useful products.
 
-My range is the advantage: I can find the signal in a messy problem, design the agent and data architecture, build the APIs and workflows, and carry the result through to a polished product. That means fewer handoffs, faster learning, and decisions that stay connected from the first question to shipped software.
+I work across AI, data, backend systems, and product development—taking ideas from early ambiguity to production-ready software.
 
 <div align="center">
 
@@ -29,7 +29,7 @@ My range is the advantage: I can find the signal in a messy problem, design the 
 
 </div>
 
-I bring an evidence-first mindset, strong engineering judgment, and a product instinct for making complex systems clear, reliable, and genuinely useful.
+I bring clear thinking, strong engineering, and a practical product mindset to every stage of the work.
 
 <br />
 
