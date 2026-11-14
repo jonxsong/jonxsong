@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">Relay - durable AI workflow engine</title>
+  <desc id="desc">An animated agent workflow DAG with crash-safe execution nodes and replayable events.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#07101E"/><stop offset=".55" stop-color="#0D1729"/><stop offset="1" stop-color="#14243C"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#5EEAD4"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#38BDF8" stop-opacity=".24"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#A5B4C7" stroke-opacity=".055"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+    <clipPath id="clip"><rect width="600" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="260" fill="url(#bg)"/>
+    <rect width="600" height="260" fill="url(#grid)"/>
+    <circle cx="500" cy="116" r="155" fill="url(#glow)"><animate attributeName="opacity" values=".45;1;.45" dur="6s" repeatCount="indefinite"/></circle>
+
+    <text x="32" y="31" fill="#7186A0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">05 / AI · WORKFLOW ENGINE</text>
+    <text x="32" y="75" fill="#F3F7FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">Relay</text>
+    <text x="32" y="105" fill="#A8B7C9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Durable execution for agent workflows that</text>
+    <text x="32" y="124" fill="#A8B7C9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">survives crashes and explains every run.</text>
+
+    <g transform="translate(32 157)">
+      <rect width="135" height="30" rx="15" fill="#38BDF8" fill-opacity=".08" stroke="#38BDF8" stroke-opacity=".28"/>
+      <circle cx="17" cy="15" r="3" fill="#5EEAD4"><animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+      <text x="28" y="19" fill="#B8F3EA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing=".7">RUN ACTIVE</text>
+    </g>
+
+    <g transform="translate(343 44)">
+      <rect width="225" height="170" rx="14" fill="#081321" fill-opacity=".72" stroke="#A8B7C9" stroke-opacity=".15"/>
+      <text x="15" y="23" fill="#7186A0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" letter-spacing="1.2">RUN #042 · VERSION 7</text>
+      <text x="161" y="23" fill="#5EEAD4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700">HEALTHY</text>
+
+      <g fill="none" stroke="#5D7894" stroke-opacity=".46" stroke-width="1.5">
+        <path id="edge-a" d="M35 69H87"/><path id="edge-b" d="M115 69H168"/><path id="edge-c" d="M101 84V119"/><path id="edge-d" d="M35 134H87"/><path id="edge-e" d="M115 134H168"/>
+      </g>
+      <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" text-anchor="middle">
+        <g><rect x="10" y="53" width="50" height="32" rx="8" fill="#12243A" stroke="#38BDF8" stroke-opacity=".55"/><text x="35" y="72" fill="#C8EFFF">INPUT</text></g>
+        <g><rect x="76" y="53" width="50" height="32" rx="8" fill="#12243A" stroke="#5EEAD4" stroke-opacity=".55"/><text x="101" y="72" fill="#C8F7EE">LLM</text></g>
+        <g><rect x="158" y="53" width="50" height="32" rx="8" fill="#12243A" stroke="#A7F3D0" stroke-opacity=".55"/><text x="183" y="72" fill="#D8FAEC">MCP</text></g>
+        <g><rect x="76" y="118" width="50" height="32" rx="8" fill="#12243A" stroke="#FBBF24" stroke-opacity=".55"/><text x="101" y="137" fill="#FDE8A2">VERIFY</text></g>
+        <g><rect x="158" y="118" width="50" height="32" rx="8" fill="#12243A" stroke="#5EEAD4" stroke-opacity=".55"/><text x="183" y="137" fill="#C8F7EE">STORE</text></g>
+      </g>
+
+      <circle r="3.5" fill="#5EEAD4" filter="url(#soft)"><animateMotion dur="2.6s" repeatCount="indefinite" path="M35 69H87"/></circle>
+      <circle r="3.5" fill="#38BDF8"><animateMotion begin=".7s" dur="3.2s" repeatCount="indefinite" path="M101 84V119H168"/></circle>
+      <text x="15" y="163" fill="#7186A0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8">EVENTS 18 · RETRIES 1 · COST $0.07</text>
+    </g>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#7F91A8"><text x="32" y="229">GO</text><text x="67" y="229">POSTGRESQL</text><text x="153" y="229">NATS</text><text x="198" y="229">MCP</text></g>
+    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#A8B7C9" stroke-opacity=".15" stroke-width="1.5"/>
+    <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".45;1;.45" dur="3.6s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

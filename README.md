@@ -118,6 +118,22 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
       <a href="https://orbit.jonzhang.dev/">Live ↗</a> · <a href="https://github.com/jonxsong/orbit">Source ↗</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jonxsong/Relay"><img src="./assets/projects/relay.svg?v=20261114-1" width="100%" alt="Relay — durable AI workflow engine" /></a>
+      <br /><br />
+      <p>A self-hostable execution engine for durable AI agent workflows with immutable DAGs, crash-safe workers, and replayable observability.</p>
+      <p><code>Go</code> <code>PostgreSQL</code> <code>NATS JetStream</code> <code>MCP</code></p>
+      <a href="https://github.com/jonxsong/Relay">Source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jonxsong/Affinity"><img src="./assets/projects/affinity.svg?v=20261114-1" width="100%" alt="Affinity — explainable recommendation platform" /></a>
+      <br /><br />
+      <p>An open-source, local-first personalization platform for training modern retrieval models and serving explainable recommendations.</p>
+      <p><code>Rust</code> <code>PyTorch</code> <code>Next.js</code> <code>PostgreSQL</code></p>
+      <a href="https://github.com/jonxsong/Affinity">Source ↗</a>
+    </td>
+  </tr>
 </table>
 
 <br />
