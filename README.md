@@ -56,8 +56,12 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
 <img src="./assets/badges/openai.svg" alt="OpenAI" />
 <img src="https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logo=langchain&logoColor=4F7CFF" alt="LangGraph" />
 <img src="https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logo=langchain&logoColor=2DD4BF" alt="LangChain" />
+<img src="https://img.shields.io/badge/DeepAgents-0B1220?style=flat-square&logo=langchain&logoColor=FFFFFF" alt="DeepAgents" />
+<img src="https://img.shields.io/badge/Anthropic-0B1220?style=flat-square&logo=anthropic&logoColor=4F7CFF" alt="Anthropic" />
+<img src="https://img.shields.io/badge/Gemini-0B1220?style=flat-square&logo=googlegemini&logoColor=2DD4BF" alt="Google Gemini" />
 <img src="https://img.shields.io/badge/vLLM-0B1220?style=flat-square&logo=python&logoColor=4F7CFF" alt="vLLM" />
 <img src="https://img.shields.io/badge/Qwen_3.5-0B1220?style=flat-square&logo=alibabacloud&logoColor=FFFFFF" alt="Qwen 3.5" />
+<img src="https://img.shields.io/badge/Ollama-0B1220?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
 <img src="./assets/badges/rag.svg" alt="RAG" />
 <img src="https://img.shields.io/badge/MCP-0B1220?style=flat-square&logo=modelcontextprotocol&logoColor=4F7CFF" alt="MCP" />
 
@@ -73,11 +77,16 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
 <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=2DD4BF" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Streamlit-0B1220?style=flat-square&logo=streamlit&logoColor=4F7CFF" alt="Streamlit" />
 <img src="https://img.shields.io/badge/REST_APIs-0B1220?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
+<img src="https://img.shields.io/badge/WebSockets-0B1220?style=flat-square&logo=socketdotio&logoColor=2DD4BF" alt="WebSockets" />
 
 <sub>DATA / RETRIEVAL</sub><br />
 <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4F7CFF" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/pgvector-0B1220?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="pgvector" />
+<img src="https://img.shields.io/badge/SQLAlchemy-0B1220?style=flat-square&logo=sqlalchemy&logoColor=FFFFFF" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/FAISS-0B1220?style=flat-square&logo=meta&logoColor=4F7CFF" alt="FAISS" />
+<img src="https://img.shields.io/badge/Hybrid_Search-0B1220?style=flat-square&logo=algolia&logoColor=2DD4BF" alt="Hybrid Search with FAISS and BM25" />
 <img src="https://img.shields.io/badge/Snowflake-0B1220?style=flat-square&logo=snowflake&logoColor=FFFFFF" alt="Snowflake" />
+<img src="https://img.shields.io/badge/Cortex_AI-0B1220?style=flat-square&logo=snowflake&logoColor=4F7CFF" alt="Snowflake Cortex AI" />
 <img src="./assets/badges/azure-ai-search.svg" alt="Azure AI Search" />
 <img src="https://img.shields.io/badge/BigQuery-0B1220?style=flat-square&logo=googlebigquery&logoColor=2DD4BF" alt="BigQuery" />
 
@@ -86,6 +95,7 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
 <img src="https://img.shields.io/badge/Google_Cloud-0B1220?style=flat-square&logo=googlecloud&logoColor=FFFFFF" alt="Google Cloud" />
 <img src="./assets/badges/microsoft-azure.svg" alt="Microsoft Azure" />
 <img src="https://img.shields.io/badge/Cloudflare-0B1220?style=flat-square&logo=cloudflare&logoColor=4F7CFF" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/NGINX-0B1220?style=flat-square&logo=nginx&logoColor=2DD4BF" alt="NGINX" />
 <img src="https://img.shields.io/badge/GitHub_Actions-0B1220?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions" />
 
 <sub>ML / ANALYTICS</sub><br />
@@ -93,12 +103,15 @@ I’m a **GenAI / Full-Stack Engineer** working where models, data, software, an
 <img src="https://img.shields.io/badge/SciPy-0B1220?style=flat-square&logo=scipy&logoColor=2DD4BF" alt="SciPy" />
 <img src="https://img.shields.io/badge/Prophet-0B1220?style=flat-square&logo=meta&logoColor=FFFFFF" alt="Prophet" />
 <img src="https://img.shields.io/badge/Plotly-0B1220?style=flat-square&logo=plotly&logoColor=4F7CFF" alt="Plotly" />
+<img src="https://img.shields.io/badge/Langfuse-0B1220?style=flat-square&logo=langfuse&logoColor=2DD4BF" alt="Langfuse" />
+<img src="https://img.shields.io/badge/RAGAS-0B1220?style=flat-square&logo=python&logoColor=FFFFFF" alt="RAGAS" />
 
 <sub>ENTERPRISE INTEGRATIONS</sub><br />
 <img src="https://img.shields.io/badge/Jira-0B1220?style=flat-square&logo=jira&logoColor=4F7CFF" alt="Jira" />
 <img src="https://img.shields.io/badge/Confluence-0B1220?style=flat-square&logo=confluence&logoColor=2DD4BF" alt="Confluence" />
 <img src="./assets/badges/slack.svg" alt="Slack" />
 <img src="https://img.shields.io/badge/Google_Drive-0B1220?style=flat-square&logo=googledrive&logoColor=4F7CFF" alt="Google Drive" />
+<img src="https://img.shields.io/badge/Microsoft_Presidio-0B1220?style=flat-square&logo=microsoft&logoColor=2DD4BF" alt="Microsoft Presidio" />
 
 <br />
 
