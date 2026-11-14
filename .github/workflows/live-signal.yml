@@ -1,0 +1,35 @@
+name: Refresh live signal
+
+on:
+  schedule:
+    - cron: "17 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-signal
+  cancel-in-progress: true
+
+jobs:
+  weekly-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate rolling seven-day commit card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: jonxsong
+        run: node scripts/generate-weekly-commits.mjs
+
+      - name: Commit refreshed card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/live-signal/weekly-commits.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh weekly commit signal"
+          git push

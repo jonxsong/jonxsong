@@ -154,14 +154,14 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonxsong&theme=github_dark&utcOffset=-8" alt="Jon's most productive times of day" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonxsong&theme=github_dark" alt="Jon's repositories by language" />
+<picture><img width="49%" src="./assets/live-signal/weekly-commits.svg?v=2026-11-14" alt="Jon's commits over the last seven days" /></picture>
+<picture><img width="49%" src="./assets/live-signal/language-capabilities.svg?v=20261114-1" alt="Jon's language capability map" /></picture>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=jonxsong&theme=transparent&hide_border=true&ring=4F7CFF&fire=2DD4BF&currStreakLabel=91A0B8&sideLabels=91A0B8&dates=6E7D96" alt="Jon's daily GitHub contribution streak" />
+<picture><img width="98%" src="https://streak-stats.demolab.com?user=jonxsong&theme=transparent&hide_border=true&ring=4F7CFF&fire=2DD4BF&currStreakLabel=91A0B8&sideLabels=91A0B8&dates=6E7D96" alt="Jon's daily GitHub contribution streak" /></picture>
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=jonxsong&style=flat-square&color=315CFF&label=PROFILE+VIEWS)
+<picture><img src="https://komarev.com/ghpvc/?username=jonxsong&style=flat-square&color=315CFF&label=PROFILE+VIEWS" alt="Profile views" /></picture>
 
 </div>
 

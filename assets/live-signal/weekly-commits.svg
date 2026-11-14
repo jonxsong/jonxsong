@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">Commits over the last seven days</title>
+  <desc id="desc">A daily bar chart showing 31 commits by jonxsong during the rolling seven-day period.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#07101F"/><stop offset="1" stop-color="#101A2B"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4F7CFF"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91A0B8" stroke-opacity=".05"/></pattern>
+    <clipPath id="clip"><rect width="600" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="260" fill="url(#bg)"/>
+    <rect width="600" height="260" fill="url(#grid)"/>
+    <text x="28" y="33" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">COMMITS / LAST 7 DAYS</text>
+    <text x="28" y="92" fill="#F2F5FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="650">31</text>
+    <text x="28" y="116" fill="#91A0B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="1">COMMITS THIS WEEK</text>
+    <text x="28" y="173" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">11/08 — 11/14</text>
+    <text x="28" y="196" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Updated 2026-11-14 · public activity</text>
+    <line x1="220" y1="211" x2="580" y2="211" stroke="#91A0B8" stroke-opacity=".16"/>
+    
+    <g>
+      <rect x="234" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="208" dur=".65s" begin="0.00s" fill="freeze" />
+        <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.00s" fill="freeze" />
+      </rect>
+      <text x="251" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
+      <text x="251" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Sun</text>
+    </g>
+    <g>
+      <rect x="282" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="208" dur=".65s" begin="0.09s" fill="freeze" />
+        <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.09s" fill="freeze" />
+      </rect>
+      <text x="299" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
+      <text x="299" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Mon</text>
+    </g>
+    <g>
+      <rect x="330" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="208" dur=".65s" begin="0.18s" fill="freeze" />
+        <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.18s" fill="freeze" />
+      </rect>
+      <text x="347" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
+      <text x="347" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Tue</text>
+    </g>
+    <g>
+      <rect x="378" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="208" dur=".65s" begin="0.27s" fill="freeze" />
+        <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.27s" fill="freeze" />
+      </rect>
+      <text x="395" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
+      <text x="395" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Wed</text>
+    </g>
+    <g>
+      <rect x="426" y="194" width="34" height="17" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="194" dur=".65s" begin="0.36s" fill="freeze" />
+        <animate attributeName="height" from="0" to="17" dur=".65s" begin="0.36s" fill="freeze" />
+      </rect>
+      <text x="443" y="186" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">3</text>
+      <text x="443" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Thu</text>
+    </g>
+    <g>
+      <rect x="474" y="95" width="34" height="116" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="95" dur=".65s" begin="0.45s" fill="freeze" />
+        <animate attributeName="height" from="0" to="116" dur=".65s" begin="0.45s" fill="freeze" />
+      </rect>
+      <text x="491" y="87" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">20</text>
+      <text x="491" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Fri</text>
+    </g>
+    <g>
+      <rect x="522" y="165" width="34" height="46" rx="7" fill="#2DD4BF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="165" dur=".65s" begin="0.54s" fill="freeze" />
+        <animate attributeName="height" from="0" to="46" dur=".65s" begin="0.54s" fill="freeze" />
+      </rect>
+      <text x="539" y="157" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">8</text>
+      <text x="539" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Sat</text>
+    </g>
+    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#91A0B8" stroke-opacity=".14" stroke-width="1.5"/>
+    <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
