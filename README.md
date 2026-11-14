@@ -81,7 +81,7 @@ Outside of engineering, basketball is a big part of my life. I love playing in o
 
 <br />
 
-## `03 / SELECTED WORK`
+## `03 / PROJECTS`
 
 <table>
   <tr>
