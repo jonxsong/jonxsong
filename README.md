@@ -36,7 +36,6 @@ Outside of engineering, basketball is a big part of my life. I love playing in o
 
 <sub>AI / AGENTS</sub><br />
 <picture><img src="./assets/badges/openai.svg" alt="OpenAI" /></picture>
-<picture><img src="https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logo=langchain&logoColor=4F7CFF" alt="LangGraph" /></picture>
 <picture><img src="https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logo=langchain&logoColor=2DD4BF" alt="LangChain" /></picture>
 <picture><img src="./assets/badges/rag.svg" alt="RAG" /></picture>
 <picture><img src="https://img.shields.io/badge/MCP-0B1220?style=flat-square&logo=modelcontextprotocol&logoColor=4F7CFF" alt="MCP" /></picture>
@@ -62,18 +61,23 @@ Outside of engineering, basketball is a big part of my life. I love playing in o
 <picture><img src="https://img.shields.io/badge/Cortex_AI-0B1220?style=flat-square&logo=snowflake&logoColor=4F7CFF" alt="Snowflake Cortex AI" /></picture>
 <picture><img src="./assets/badges/azure-ai-search.svg" alt="Azure AI Search" /></picture>
 
+<sub>ORCHESTRATION / AUTOMATION</sub><br />
+<picture><img src="https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logo=langchain&logoColor=4F7CFF" alt="LangGraph" /></picture>
+<picture><img src="https://img.shields.io/badge/Apache_Airflow-0B1220?style=flat-square&logo=apacheairflow&logoColor=2DD4BF" alt="Apache Airflow" /></picture>
+<picture><img src="./assets/badges/kubernetes.svg" alt="Kubernetes" /></picture>
+<picture><img src="https://img.shields.io/badge/GitHub_Actions-0B1220?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions" /></picture>
+
 <sub>CLOUD / INFRASTRUCTURE</sub><br />
 <picture><img src="./assets/badges/aws.svg" alt="Amazon Web Services" /></picture>
 <picture><img src="./assets/badges/microsoft-azure.svg" alt="Microsoft Azure" /></picture>
 <picture><img src="https://img.shields.io/badge/Google_Cloud-0B1220?style=flat-square&logo=googlecloud&logoColor=FFFFFF" alt="Google Cloud" /></picture>
 <picture><img src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=4F7CFF" alt="Docker" /></picture>
-<picture><img src="./assets/badges/kubernetes.svg" alt="Kubernetes" /></picture>
-<picture><img src="https://img.shields.io/badge/GitHub_Actions-0B1220?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions" /></picture>
 
-<sub>QUALITY / OBSERVABILITY</sub><br />
+<sub>QUALITY / EVALUATION / OBSERVABILITY</sub><br />
 <picture><img src="./assets/badges/langfuse.svg" alt="Langfuse" /></picture>
 <picture><img src="https://img.shields.io/badge/RAGAS-0B1220?style=flat-square&logo=python&logoColor=FFFFFF" alt="RAGAS" /></picture>
 <picture><img src="https://img.shields.io/badge/pytest-0B1220?style=flat-square&logo=pytest&logoColor=4F7CFF" alt="pytest" /></picture>
+<picture><img src="https://img.shields.io/badge/OpenTelemetry-0B1220?style=flat-square&logo=opentelemetry&logoColor=2DD4BF" alt="OpenTelemetry" /></picture>
 
 <br />
 
