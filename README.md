@@ -17,7 +17,7 @@
 
 <br />
 
-## `01 / ABOUT`
+## `01 / ABOUT ME`
 
 I work across AI, data, backend systems, and product development—taking ideas from mock-ups to production-ready software. I enjoy the challenge of turning complex problems into reliable, useful products, particularly chasing the feeling of owning something I’ve shipped end to end.
 
