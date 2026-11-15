@@ -42,6 +42,8 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
 <picture><img src="./assets/badges/rag.svg" alt="RAG" /></picture>
 <picture><img src="https://img.shields.io/badge/MCP-0B1220?style=flat-square&logo=modelcontextprotocol&logoColor=4F7CFF" alt="MCP" /></picture>
 <picture><img src="https://img.shields.io/badge/vLLM-0B1220?style=flat-square&logo=python&logoColor=FFFFFF" alt="vLLM" /></picture>
+<picture><img src="https://img.shields.io/badge/Cortex_AI-0B1220?style=flat-square&logo=snowflake&logoColor=4F7CFF" alt="Snowflake Cortex AI" /></picture>
+<picture><img src="./assets/badges/azure-ai-search.svg" alt="Azure AI Search" /></picture>
 
 <sub>FRONTEND / APPS</sub><br />
 <picture><img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=2DD4BF" alt="React" /></picture>
@@ -60,10 +62,8 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
 <picture><img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4F7CFF" alt="PostgreSQL" /></picture>
 <picture><img src="https://img.shields.io/badge/pgvector-0B1220?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="pgvector" /></picture>
 <picture><img src="https://img.shields.io/badge/Snowflake-0B1220?style=flat-square&logo=snowflake&logoColor=FFFFFF" alt="Snowflake" /></picture>
-<picture><img src="https://img.shields.io/badge/Cortex_AI-0B1220?style=flat-square&logo=snowflake&logoColor=4F7CFF" alt="Snowflake Cortex AI" /></picture>
 <picture><img src="./assets/badges/fivetran.svg" alt="Fivetran" /></picture>
 <picture><img src="./assets/badges/dbt.svg" alt="dbt" /></picture>
-<picture><img src="./assets/badges/azure-ai-search.svg" alt="Azure AI Search" /></picture>
 
 <sub>ORCHESTRATION / AUTOMATION</sub><br />
 <picture><img src="https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logo=langchain&logoColor=4F7CFF" alt="LangGraph" /></picture>
