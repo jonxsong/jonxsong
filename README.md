@@ -61,6 +61,8 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
 <picture><img src="https://img.shields.io/badge/pgvector-0B1220?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="pgvector" /></picture>
 <picture><img src="https://img.shields.io/badge/Snowflake-0B1220?style=flat-square&logo=snowflake&logoColor=FFFFFF" alt="Snowflake" /></picture>
 <picture><img src="https://img.shields.io/badge/Cortex_AI-0B1220?style=flat-square&logo=snowflake&logoColor=4F7CFF" alt="Snowflake Cortex AI" /></picture>
+<picture><img src="./assets/badges/fivetran.svg" alt="Fivetran" /></picture>
+<picture><img src="./assets/badges/dbt.svg" alt="dbt" /></picture>
 <picture><img src="./assets/badges/azure-ai-search.svg" alt="Azure AI Search" /></picture>
 
 <sub>ORCHESTRATION / AUTOMATION</sub><br />
