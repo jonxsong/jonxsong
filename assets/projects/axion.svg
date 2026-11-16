@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">Axion - vector search engineered from first principles</title>
+  <desc id="desc">An animated HNSW vector graph searches neighboring points and returns a ranked result set.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#090A0C"/><stop offset=".58" stop-color="#0E1115"/><stop offset="1" stop-color="#12201E"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#79AEF8"/><stop offset=".5" stop-color="#6EE7B7"/><stop offset="1" stop-color="#B3FFE0"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#6EE7B7" stop-opacity=".2"/><stop offset="1" stop-color="#6EE7B7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#B7C3C0" stroke-opacity=".045"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+    <clipPath id="clip"><rect width="600" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="260" fill="url(#bg)"/>
+    <rect width="600" height="260" fill="url(#grid)"/>
+    <circle cx="490" cy="113" r="158" fill="url(#glow)"><animate attributeName="opacity" values=".4;1;.4" dur="6.4s" repeatCount="indefinite"/></circle>
+
+    <text x="32" y="31" fill="#717A85" font-family="SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="2">08 / VECTOR · INFRASTRUCTURE</text>
+    <text x="32" y="75" fill="#EDF0F2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">Axion</text>
+    <text x="32" y="105" fill="#949BA5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Vector search engineered from first</text>
+    <text x="32" y="124" fill="#949BA5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">principles, durable by construction.</text>
+
+    <g transform="translate(32 157)">
+      <rect width="139" height="30" rx="15" fill="#6EE7B7" fill-opacity=".07" stroke="#6EE7B7" stroke-opacity=".3"/>
+      <circle cx="17" cy="15" r="3" fill="#6EE7B7" filter="url(#soft)"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+      <text x="28" y="19" fill="#B3FFE0" font-family="SFMono-Regular, Consolas, monospace" font-size="10" font-weight="600" letter-spacing=".65">INDEX ONLINE</text>
+    </g>
+
+    <g transform="translate(338 42)">
+      <rect width="230" height="173" rx="14" fill="#0B0D10" fill-opacity=".9" stroke="#A9B2BA" stroke-opacity=".16"/>
+      <text x="15" y="22" fill="#717A85" font-family="SFMono-Regular, Consolas, monospace" font-size="8" letter-spacing="1.1">COLLECTION / DOCUMENTS</text>
+      <text x="180" y="22" fill="#6EE7B7" font-family="SFMono-Regular, Consolas, monospace" font-size="8" font-weight="700">HNSW</text>
+
+      <g transform="translate(15 35)">
+        <rect width="139" height="103" rx="8" fill="#0E1013" stroke="#24282F"/>
+        <g fill="none" stroke="#55616B" stroke-opacity=".45" stroke-width="1">
+          <path d="M19 66L42 28 69 49 91 19 120 35 111 78 77 83 52 72 19 66Z"/>
+          <path d="M42 28L52 72M69 49L111 78M69 49L120 35M77 83L91 19M52 72L69 49"/>
+        </g>
+        <g fill="#79AEF8">
+          <circle cx="19" cy="66" r="3"/><circle cx="42" cy="28" r="3"/><circle cx="69" cy="49" r="3"/><circle cx="91" cy="19" r="3"/><circle cx="120" cy="35" r="3"/><circle cx="111" cy="78" r="3"/><circle cx="77" cy="83" r="3"/><circle cx="52" cy="72" r="3"/>
+        </g>
+        <circle cx="69" cy="49" r="13" fill="#6EE7B7" fill-opacity=".08" stroke="#6EE7B7" stroke-opacity=".35"><animate attributeName="r" values="8;17;8" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.25;1" dur="2.8s" repeatCount="indefinite"/></circle>
+        <circle r="3.5" fill="#B3FFE0" filter="url(#soft)"><animateMotion dur="3.8s" repeatCount="indefinite" path="M19 66L42 28L69 49L91 19L120 35"/></circle>
+      </g>
+
+      <g transform="translate(164 35)" font-family="SFMono-Regular, Consolas, monospace">
+        <text x="0" y="8" fill="#717A85" font-size="7" letter-spacing=".9">TOP K</text>
+        <g transform="translate(0 17)"><rect width="51" height="22" rx="5" fill="#6EE7B7" fill-opacity=".11"/><text x="7" y="14" fill="#B3FFE0" font-size="8">01 .982</text></g>
+        <g transform="translate(0 44)"><rect width="51" height="22" rx="5" fill="#79AEF8" fill-opacity=".09"/><text x="7" y="14" fill="#AECFFF" font-size="8">02 .957</text></g>
+        <g transform="translate(0 71)"><rect width="51" height="22" rx="5" fill="#79AEF8" fill-opacity=".06"/><text x="7" y="14" fill="#8EA8C9" font-size="8">03 .931</text></g>
+      </g>
+
+      <g transform="translate(15 151)" font-family="SFMono-Regular, Consolas, monospace" font-size="7.5">
+        <text fill="#717A85">RECALL@10</text><text x="58" fill="#6EE7B7">.999</text>
+        <text x="93" fill="#717A85">QPS</text><text x="117" fill="#79AEF8">3,440</text>
+        <text x="164" fill="#717A85">WAL</text><text x="187" fill="#6EE7B7">SYNC</text>
+      </g>
+    </g>
+
+    <g font-family="SFMono-Regular, Consolas, monospace" font-size="10" fill="#7F8791"><text x="32" y="229">RUST</text><text x="75" y="229">HNSW</text><text x="119" y="229">ROCKSDB</text><text x="181" y="229">REST / GRPC</text></g>
+    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#A8B0B8" stroke-opacity=".15" stroke-width="1.5"/>
+    <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".42;1;.42" dur="3.7s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

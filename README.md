@@ -144,7 +144,13 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
       <p><code>PostgreSQL</code> <code>Snowflake</code> <code>OpenAI Agents</code> <code>FastAPI</code></p>
       <a href="https://datacurrent.jonzhang.dev/">Live ↗</a> · <a href="https://github.com/jonxsong/DataCurrent">Source ↗</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://axion-vector-search.perkyaisle4.chatgpt.site/"><img src="./assets/projects/axion.svg?v=20261115-1" width="100%" alt="Axion — vector search engineered from first principles" /></a>
+      <br /><br />
+      <p>A durable Rust vector engine with native HNSW, RocksDB, REST and gRPC APIs, a typed Python SDK, and evidence-backed performance.</p>
+      <p><code>Rust</code> <code>HNSW</code> <code>RocksDB</code> <code>gRPC</code></p>
+      <a href="https://axion-vector-search.perkyaisle4.chatgpt.site/">Live ↗</a> · <a href="https://github.com/jonxsong/Axion">Source ↗</a>
+    </td>
   </tr>
 </table>
 
