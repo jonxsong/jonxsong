@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">DataCurrent - evidence-first database performance intelligence</title>
+  <desc id="desc">An animated database performance investigation showing a regression, cited evidence, and a verified improvement.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#080C0E"/><stop offset=".58" stop-color="#0D1416"/><stop offset="1" stop-color="#10201F"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1AA98E"/><stop offset=".48" stop-color="#42E5C2"/><stop offset="1" stop-color="#8BFFE7"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#42E5C2" stop-opacity=".22"/><stop offset="1" stop-color="#42E5C2" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#B8D0CB" stroke-opacity=".045"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
+    <clipPath id="clip"><rect width="600" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="260" fill="url(#bg)"/>
+    <rect width="600" height="260" fill="url(#grid)"/>
+    <circle cx="500" cy="112" r="156" fill="url(#glow)"><animate attributeName="opacity" values=".42;1;.42" dur="6s" repeatCount="indefinite"/></circle>
+
+    <text x="32" y="31" fill="#718682" font-family="DM Mono, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="2">07 / DATA · PERFORMANCE</text>
+    <text x="32" y="75" fill="#ECF4F2" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650">DataCurrent</text>
+    <text x="32" y="105" fill="#9CAAA7" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="13">Evidence-first database intelligence from</text>
+    <text x="32" y="124" fill="#9CAAA7" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="13">regression detection through verification.</text>
+
+    <g transform="translate(32 157)">
+      <rect width="157" height="30" rx="15" fill="#42E5C2" fill-opacity=".07" stroke="#42E5C2" stroke-opacity=".30"/>
+      <circle cx="17" cy="15" r="3" fill="#42E5C2" filter="url(#soft)"><animate attributeName="opacity" values="1;.28;1" dur="1.7s" repeatCount="indefinite"/></circle>
+      <text x="28" y="19" fill="#B7F5E7" font-family="DM Mono, Consolas, monospace" font-size="10" font-weight="600" letter-spacing=".55">EVIDENCE VERIFIED</text>
+    </g>
+
+    <g transform="translate(338 42)">
+      <rect width="230" height="173" rx="14" fill="#0A1012" fill-opacity=".88" stroke="#9AB0AC" stroke-opacity=".16"/>
+      <text x="15" y="22" fill="#718682" font-family="DM Mono, Consolas, monospace" font-size="8" letter-spacing="1.1">QUERY / 7A41</text>
+      <circle cx="171" cy="19" r="2.5" fill="#42E5C2"><animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+      <text x="178" y="22" fill="#72EACF" font-family="DM Mono, Consolas, monospace" font-size="8" font-weight="700">VERIFIED</text>
+
+      <g transform="translate(15 36)" font-family="DM Mono, Consolas, monospace">
+        <rect width="94" height="42" rx="7" fill="#11181B" stroke="#20292D"/>
+        <text x="10" y="14" fill="#718682" font-size="7" letter-spacing=".8">P95 LATENCY</text>
+        <text x="10" y="32" fill="#ECF4F2" font-size="15" font-weight="600">184ms</text>
+        <text x="61" y="31" fill="#42E5C2" font-size="8">↓ 37%</text>
+        <rect x="104" width="96" height="42" rx="7" fill="#11181B" stroke="#20292D"/>
+        <text x="114" y="14" fill="#718682" font-size="7" letter-spacing=".8">EVIDENCE</text>
+        <text x="114" y="32" fill="#ECF4F2" font-size="15" font-weight="600">06</text>
+        <text x="142" y="31" fill="#7F8D92" font-size="8">sources</text>
+      </g>
+
+      <g transform="translate(15 91)">
+        <path d="M0 48H200M0 24H200M0 0H200" fill="none" stroke="#B8D0CB" stroke-opacity=".07"/>
+        <path d="M0 38C18 36 25 40 42 34S69 11 88 17s23 22 42 13 26-22 45-15 20 4 25 1" fill="none" stroke="#42E5C2" stroke-width="2" stroke-linecap="round" stroke-dasharray="260" stroke-dashoffset="260">
+          <animate attributeName="stroke-dashoffset" values="260;0;0" keyTimes="0;.72;1" dur="4.8s" repeatCount="indefinite"/>
+        </path>
+        <path d="M0 10C23 12 31 8 49 14s26 28 44 25 31-9 48-7 37 3 59 2" fill="none" stroke="#FFB25B" stroke-opacity=".58" stroke-width="1.4" stroke-dasharray="3 4"/>
+        <circle r="3.5" fill="#8BFFE7" filter="url(#soft)"><animateMotion dur="4.8s" repeatCount="indefinite" path="M0 38C18 36 25 40 42 34S69 11 88 17s23 22 42 13 26-22 45-15 20 4 25 1"/></circle>
+      </g>
+
+      <g transform="translate(15 151)" font-family="DM Mono, Consolas, monospace" font-size="7.5">
+        <text fill="#718682">PLAN</text><text x="35" fill="#42E5C2">CITED</text>
+        <text x="82" fill="#718682">LINEAGE</text><text x="132" fill="#42E5C2">TRACED</text>
+        <text x="177" fill="#718682">✓</text>
+      </g>
+    </g>
+
+    <g font-family="DM Mono, Consolas, monospace" font-size="10" fill="#7F918D"><text x="32" y="229">POSTGRESQL</text><text x="112" y="229">SNOWFLAKE</text><text x="184" y="229">OPENAI</text><text x="237" y="229">FASTAPI</text></g>
+    <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#A8C0BB" stroke-opacity=".15" stroke-width="1.5"/>
+    <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".42;1;.42" dur="3.5s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

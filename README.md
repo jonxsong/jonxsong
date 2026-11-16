@@ -136,6 +136,16 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
       <a href="https://affinity.jonzhang.dev/">Live ↗</a> · <a href="https://github.com/jonxsong/Affinity">Source ↗</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://datacurrent.jonzhang.dev/"><img src="./assets/projects/datacurrent.svg?v=20261115-1" width="100%" alt="DataCurrent — evidence-first database performance intelligence" /></a>
+      <br /><br />
+      <p>Evidence-first database performance intelligence connecting workload regressions, execution plans, lineage, cited AI recommendations, and isolated verification.</p>
+      <p><code>PostgreSQL</code> <code>Snowflake</code> <code>OpenAI Agents</code> <code>FastAPI</code></p>
+      <a href="https://datacurrent.jonzhang.dev/">Live ↗</a> · <a href="https://github.com/jonxsong/DataCurrent">Source ↗</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <br />
