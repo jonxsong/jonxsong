@@ -164,6 +164,7 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
 | **2023 — 2026** | **AI Software Engineer / Data Engineer · EIS Group** | Multi-agent investigation, enterprise RAG, async AI workflows, retrieval systems, and governed analytics. |
 | **2021 — 2022** | **Data Scientist · Pandio** | Machine-learning deployment and product / operational analytics. |
 | **2021 — 2023** | **M.S. Data Science · Northwestern University** | Data engineering; price optimization and demand forecasting. |
+| **2019 - 2020** | **Intel Corporation - Data Science Internship** | Predictive analytics with operational and sensor data. |
 | **2016 — 2020** | **B.S. Data Science · UC San Diego** | The analytical foundation: evidence first, systems thinking, useful outcomes. |
 
 <br />
