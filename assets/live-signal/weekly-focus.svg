@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
   <title id="title">This week's project focus</title>
-  <desc id="desc">Commit distribution across 4 active project groups during the last seven days.</desc>
+  <desc id="desc">Commit distribution across 2 active project groups during the last seven days.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#07101F"/><stop offset="1" stop-color="#101A2B"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2DD4BF"/><stop offset=".52" stop-color="#4F7CFF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
@@ -12,7 +12,7 @@
     <rect width="600" height="260" fill="url(#grid)"/>
     <text x="28" y="33" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">THIS WEEK / PROJECT FOCUS</text>
     <text x="28" y="58" fill="#D7DEEA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Where the last seven days of work landed.</text>
-    <text x="550" y="34" text-anchor="end" fill="#2DD4BF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">4 ACTIVE REPOS</text>
+    <text x="550" y="34" text-anchor="end" fill="#2DD4BF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">2 ACTIVE REPOS</text>
     
     <g>
       <text x="28" y="85" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">afterglow.</text>
@@ -20,33 +20,17 @@
       <rect x="170" y="73" width="325" height="12" rx="6" fill="#4F7CFF" fill-opacity=".82">
         <animate attributeName="width" from="0" to="325" dur=".75s" begin="0.00s" fill="freeze" />
       </rect>
-      <text x="550" y="85" text-anchor="end" fill="#F2F5FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">61</text>
+      <text x="550" y="85" text-anchor="end" fill="#F2F5FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">66</text>
     </g>
     <g>
-      <text x="28" y="116" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">DataCurrent</text>
+      <text x="28" y="116" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">Frasi</text>
       <rect x="170" y="104" width="325" height="12" rx="6" fill="#91A0B8" fill-opacity=".08" />
-      <rect x="170" y="104" width="298" height="12" rx="6" fill="#2DD4BF" fill-opacity=".82">
-        <animate attributeName="width" from="0" to="298" dur=".75s" begin="0.10s" fill="freeze" />
+      <rect x="170" y="104" width="261" height="12" rx="6" fill="#2DD4BF" fill-opacity=".82">
+        <animate attributeName="width" from="0" to="261" dur=".75s" begin="0.10s" fill="freeze" />
       </rect>
-      <text x="550" y="116" text-anchor="end" fill="#F2F5FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">56</text>
+      <text x="550" y="116" text-anchor="end" fill="#F2F5FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">53</text>
     </g>
-    <g>
-      <text x="28" y="147" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">Frasi</text>
-      <rect x="170" y="135" width="325" height="12" rx="6" fill="#91A0B8" fill-opacity=".08" />
-      <rect x="170" y="135" width="282" height="12" rx="6" fill="#A78BFA" fill-opacity=".82">
-        <animate attributeName="width" from="0" to="282" dur=".75s" begin="0.20s" fill="freeze" />
-      </rect>
-      <text x="550" y="147" text-anchor="end" fill="#F2F5FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">53</text>
-    </g>
-    <g>
-      <text x="28" y="178" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">Axion</text>
-      <rect x="170" y="166" width="325" height="12" rx="6" fill="#91A0B8" fill-opacity=".08" />
-      <rect x="170" y="166" width="112" height="12" rx="6" fill="#F59E42" fill-opacity=".82">
-        <animate attributeName="width" from="0" to="112" dur=".75s" begin="0.30s" fill="freeze" />
-      </rect>
-      <text x="550" y="178" text-anchor="end" fill="#F2F5FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">21</text>
-    </g>
-    <text x="28" y="239" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Updated 2026-11-21 · public activity</text>
+    <text x="28" y="239" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Updated 2026-11-22 · public activity</text>
     <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#91A0B8" stroke-opacity=".14" stroke-width="1.5"/>
     <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/></rect>
   </g>
