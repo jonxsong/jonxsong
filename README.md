@@ -173,8 +173,8 @@ When I’m winding down, I like reading manga or watching anime—my favorite is
 
 <div align="center">
 
-<picture><img width="49%" src="./assets/live-signal/weekly-commits.svg?v=2026-11-22" alt="Jon's commits over the last seven days" /></picture>
-<picture><img width="49%" src="./assets/live-signal/weekly-focus.svg?v=2026-11-22" alt="Jon's project focus over the last seven days" /></picture>
+<picture><img width="49%" src="./assets/live-signal/weekly-commits.svg?v=2026-11-23" alt="Jon's commits over the last seven days" /></picture>
+<picture><img width="49%" src="./assets/live-signal/weekly-focus.svg?v=2026-11-23" alt="Jon's project focus over the last seven days" /></picture>
 
 <picture><img width="98%" src="https://streak-stats.demolab.com?user=jonxsong&theme=transparent&hide_border=true&ring=4F7CFF&fire=2DD4BF&currStreakLabel=91A0B8&sideLabels=91A0B8&dates=6E7D96" alt="Jon's daily GitHub contribution streak" /></picture>
 
