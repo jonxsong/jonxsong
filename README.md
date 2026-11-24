@@ -4,10 +4,10 @@
 
 <br />
 
-<a href="https://jon-zhang-portfolio-2026.perkyaisle4.chatgpt.site/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=safari&logoColor=4F7CFF" alt="Portfolio" /></a>
+<a href="https://jon-zhang-portfolio-2026.perkyaisle4.chatgpt.site/"><img src="./assets/badges/portfolio.svg" height="28" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/jonxsong/"><img src="./assets/badges/linkedin.svg" height="28" alt="LinkedIn" /></a>
 <a href="https://github.com/jonxsong?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Projects" /></a>
-<a href="https://www.overleaf.com/project/6af3be5dcb8d4f7336950eb2/share#bde3fd1173b1b1ea75c85a1736f15deed095f0cfd7c466db"><img src="https://img.shields.io/badge/RÉSUMÉ-0B1220?style=for-the-badge&logo=readthedocs&logoColor=4F7CFF" alt="Résumé" /></a>
+<a href="https://www.overleaf.com/project/6af3be5dcb8d4f7336950eb2/share#bde3fd1173b1b1ea75c85a1736f15deed095f0cfd7c466db"><img src="./assets/badges/resume.svg" height="28" alt="Résumé" /></a>
 
 <br /><br />
 
