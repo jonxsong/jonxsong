@@ -13,33 +13,33 @@
     <text x="28" y="33" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">COMMITS / LAST 7 DAYS</text>
     <text x="28" y="92" fill="#F2F5FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="650">7</text>
     <text x="28" y="116" fill="#91A0B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="1">COMMITS THIS WEEK</text>
-    <text x="28" y="173" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">11/20 — 11/26</text>
-    <text x="28" y="196" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Updated 2026-11-26 · public activity</text>
+    <text x="28" y="173" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">11/21 — 11/27</text>
+    <text x="28" y="196" fill="#71809A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Updated 2026-11-27 · public activity</text>
     <line x1="220" y1="211" x2="580" y2="211" stroke="#91A0B8" stroke-opacity=".16"/>
     
     <g>
-      <rect x="234" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
-        <animate attributeName="y" from="211" to="208" dur=".65s" begin="0.00s" fill="freeze" />
-        <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.00s" fill="freeze" />
+      <rect x="234" y="95" width="34" height="116" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="95" dur=".65s" begin="0.00s" fill="freeze" />
+        <animate attributeName="height" from="0" to="116" dur=".65s" begin="0.00s" fill="freeze" />
       </rect>
-      <text x="251" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
-      <text x="251" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Fri</text>
+      <text x="251" y="87" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">5</text>
+      <text x="251" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Sat</text>
     </g>
     <g>
-      <rect x="282" y="95" width="34" height="116" rx="7" fill="#4F7CFF" fill-opacity=".78">
-        <animate attributeName="y" from="211" to="95" dur=".65s" begin="0.09s" fill="freeze" />
-        <animate attributeName="height" from="0" to="116" dur=".65s" begin="0.09s" fill="freeze" />
+      <rect x="282" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="208" dur=".65s" begin="0.09s" fill="freeze" />
+        <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.09s" fill="freeze" />
       </rect>
-      <text x="299" y="87" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">5</text>
-      <text x="299" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Sat</text>
+      <text x="299" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
+      <text x="299" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Sun</text>
     </g>
     <g>
-      <rect x="330" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
-        <animate attributeName="y" from="211" to="208" dur=".65s" begin="0.18s" fill="freeze" />
-        <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.18s" fill="freeze" />
+      <rect x="330" y="188" width="34" height="23" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="188" dur=".65s" begin="0.18s" fill="freeze" />
+        <animate attributeName="height" from="0" to="23" dur=".65s" begin="0.18s" fill="freeze" />
       </rect>
-      <text x="347" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
-      <text x="347" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Sun</text>
+      <text x="347" y="180" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">1</text>
+      <text x="347" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Mon</text>
     </g>
     <g>
       <rect x="378" y="188" width="34" height="23" rx="7" fill="#4F7CFF" fill-opacity=".78">
@@ -47,15 +47,15 @@
         <animate attributeName="height" from="0" to="23" dur=".65s" begin="0.27s" fill="freeze" />
       </rect>
       <text x="395" y="180" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">1</text>
-      <text x="395" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Mon</text>
+      <text x="395" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Tue</text>
     </g>
     <g>
-      <rect x="426" y="188" width="34" height="23" rx="7" fill="#4F7CFF" fill-opacity=".78">
-        <animate attributeName="y" from="211" to="188" dur=".65s" begin="0.36s" fill="freeze" />
-        <animate attributeName="height" from="0" to="23" dur=".65s" begin="0.36s" fill="freeze" />
+      <rect x="426" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
+        <animate attributeName="y" from="211" to="208" dur=".65s" begin="0.36s" fill="freeze" />
+        <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.36s" fill="freeze" />
       </rect>
-      <text x="443" y="180" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">1</text>
-      <text x="443" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Tue</text>
+      <text x="443" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
+      <text x="443" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Wed</text>
     </g>
     <g>
       <rect x="474" y="208" width="34" height="3" rx="7" fill="#4F7CFF" fill-opacity=".78">
@@ -63,7 +63,7 @@
         <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.45s" fill="freeze" />
       </rect>
       <text x="491" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
-      <text x="491" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Wed</text>
+      <text x="491" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Thu</text>
     </g>
     <g>
       <rect x="522" y="208" width="34" height="3" rx="7" fill="#2DD4BF" fill-opacity=".78">
@@ -71,7 +71,7 @@
         <animate attributeName="height" from="0" to="3" dur=".65s" begin="0.54s" fill="freeze" />
       </rect>
       <text x="539" y="200" text-anchor="middle" fill="#D8E0ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">0</text>
-      <text x="539" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Thu</text>
+      <text x="539" y="232" text-anchor="middle" fill="#7F8FA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9">Fri</text>
     </g>
     <rect x=".75" y=".75" width="598.5" height="258.5" rx="17.25" fill="none" stroke="#91A0B8" stroke-opacity=".14" stroke-width="1.5"/>
     <rect y="257" width="600" height="3" fill="url(#accent)"><animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/></rect>
